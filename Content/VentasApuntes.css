@@ -1,0 +1,26 @@
+﻿body {
+}
+
+#imagenes {
+    margin-top: 2px;
+}
+
+#titulosEditarUsuarios {
+    /*display:inline-block;*/
+    font-size: 35px;
+    font-style: italic;
+    color: crimson;
+    font-weight: bold;
+}
+
+#botonEditarUsuarios {
+    margin-left: 70px;
+}
+
+#titulosAltaClientes {
+    /*display:inline-block;*/
+    font-size: 35px;
+    font-style: italic;
+    color: crimson;
+    font-weight: bold;
+}
